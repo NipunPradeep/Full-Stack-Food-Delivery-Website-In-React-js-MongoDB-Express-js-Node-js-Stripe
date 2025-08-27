@@ -1,4 +1,4 @@
-# FoodFlick - Full Stack Food Delivery Website
+# Tomato - Full Stack Food Delivery Website
 
 A modern, full-stack food delivery web application built with the MERN stack (MongoDB, Express.js, React, Node.js). This platform allows users to browse restaurants, add items to their cart, and place orders for delivery.
 
